@@ -1,59 +1,29 @@
-# Hi there! 👏
+## 👋 Hi, I'm Mustafa Can
 
-I'm a computer engineering student and full-stack developer passionate about building meaningful and technically sound projects. I enjoy working on systems that combine practical engineering with real-world data and AI.
+Computer Engineering student focused on full-stack and AI-driven projects. Passionate about turning ideas into practical tools.
 
-This profile includes some of the projects I actively maintain and develop.
+### 🛠 Tech Stack
 
----
+**🧠 Languages:** TypeScript, JavaScript, Java, C++, PHP, Python  
+**🎨 Frontend:** React, Next.js, Vue, Nuxt.js, Tailwind, Bootstrap  
+**🛠️ Backend:** Node.js, Express, Hyper-Express, MySQL, MongoDB, Redis, Strapi  
+**⚙️ Tools:** Git, GitHub Actions, Docker
 
-## 🛠️ Technologies I Work With
+### 📂 Projects
 
-**Languages**  
-`TypeScript` • `JavaScript` • `PHP` • `Java` • `Python` • `C++`
+- `BoostMindAI` – AI-powered MVP assistant  
+- `Flight Risk Analysis (TEKNOFEST 2025)` – Flight safety + route optimizer  
+- `OrleansMC` – Plugin-powered Minecraft server (open-source)  
+- `Caneria` – Discord bot + control panel  
+- `ÖHÜ AI Club Website` – Uni club site
 
-**Frameworks & Libraries**  
-`Next.js` • `Nuxt.js` • `React` • `Express.js` • `Laravel`
-
-**Databases**  
-`MySQL` • `MongoDB` • `Redis`
-
-**Tools & Ecosystem**  
-`Git` • `Docker` • `Vercel` • `Railway` • `Bootstrap` • `Tailwind CSS`
-
----
-
-## 🔍 Projects
-
-- **BoostMindAI**  
-  AI-powered MVP chat assistant for productivity and motivation. Lightweight, fast, and runs on Groq's inference API.
-
-- **Flight Risk Analysis (TEKNOFEST 2025)**  
-  A system that merges meteorological and aviation data to analyze flight risks under varying weather conditions.
-
-- **OrleansMC**
-  A Minecraft server project I previously ran and developed from scratch. Now inactive, but fully open-sourced for learning and reuse.
-
-- **Caneria**  
-  A Discord bot and web control panel, built for server automation and moderation.
-
-- **ÖHÜ AI Club Website**  
-  A clean, static site built for a university AI community.
-
-More in the pinned repositories.
-
----
-
-## ☕ Let's Connect
-
-You can reach me at:  
-📧 `contact@mustafacan.dev`  
-🔗 [LinkedIn](https://linkedin.com/in/mustafacangoktas)
-
----
-
-## 📊 GitHub Stats
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafacangoktas&show_icons=true&hide_border=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacangoktas&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafacangoktas&show_icons=true&hide_border=true&theme=tokyonight" height="140" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacangoktas&theme=tokyonight&hide_border=true" height="140" />
 </p>
+
+### 📫 Reach Me
+
+[LinkedIn](https://www.linkedin.com/in/mustafacangoktas) · [contact@mustafacan.dev](mailto:contact@mustafacan.dev)
