@@ -2,12 +2,12 @@
 
 Computer Engineering student focused on full-stack and AI-driven projects. Passionate about turning ideas into practical tools.
 
-### 🛠 Tech Stack
+### 🛠️ Tech Stack
 
-**🧠 Languages:** TypeScript, JavaScript, Java, C++, PHP, Python  
-**🎨 Frontend:** React, Next.js, Vue, Nuxt.js, Tailwind, Bootstrap  
-**🛠️ Backend:** Node.js, Express, Hyper-Express, MySQL, MongoDB, Redis, Strapi  
-**⚙️ Tools:** Git, GitHub Actions, Docker
+- **Languages:** TypeScript, JavaScript, Java, C++, PHP, Python  
+- **Frontend:** React, Next.js, Vue, Nuxt.js, Tailwind, Bootstrap  
+- **Backend:** Node.js, Express, Hyper-Express, MySQL, MongoDB, Redis, Strapi  
+- **Tools:** Git, GitHub Actions, Docker
 
 ### 📂 Projects
 
