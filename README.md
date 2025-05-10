@@ -20,8 +20,8 @@ Computer Engineering student focused on full-stack and AI-driven projects. Passi
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mustafacangoktas&show_icons=true&hide_border=true&theme=tokyonight" height="140" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacangoktas&theme=tokyonight&hide_border=true" height="140" />
+  <img src="https://github-readme-stats.vercel.app/api?username=mustafacangoktas&show_icons=true&hide_border=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mustafacangoktas&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
 ### 📫 Reach Me
